@@ -55,6 +55,8 @@ Este guia de estudos serve para exemplificar e compactar conceitos de Programaç
 
 #### Enum
 - Conjunto especial no Java, onde é possível utilizar como constante e pode possuir atributos e métodos.
+- [Exemplos de enuns](https://github.com/halmeidaprof/poo-example/tree/main/src/main/java/halmeida/enums)
+- [Exemplos de enums com métodos abstratos](https://github.com/halmeidaprof/poo-example/tree/main/src/main/java/halmeida/enums/metodos)
 
 
 #### Gerenciador de dependências
